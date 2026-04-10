@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi 👋 I'm Prince Gupta
 
-<!--
-**princegupta2320/princegupta2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Guru Nanak College, Dhanbad
+💻 Aspiring Front-End Developer
+🌱 Currently learning Java, DSA, HTML, CSS, JavaScript
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+💻 HTML | CSS | JavaScript
+☕ Java
+📚 Data Structures & Algorithms
+
+
+📌 Projects
+
+🌦 Weather App
+📝 To-Do List Web App
+🛒 E-Commerce Website
+⏰ Analog Clock
+
+
+📊 GitHub Stats
+
+"Prince's GitHub stats" (https://github-readme-stats.vercel.app/api?username=princegupta2320&show_icons=true&theme=tokyonight)
+
+
+🔥 GitHub Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com/?user=princegupta2320&theme=tokyonight)
+
+
+🌐 Connect with Me
+
+📧 Email: princeooo411@gmail.com
+
+
+⭐ Keep learning, keep building.
